@@ -8,7 +8,7 @@ slug: "preprocessing-cookbook"
 category: "Engineer"
 tags:
   - "Data Science"
-socialImage: "/media/preprocessing-cookbook/card.jpg"
+socialImage: "/media/preprocessing-cookbook/card.jpeg"
 ---
 
 本橋智光さん著の「<a href="https://amzn.to/2TWldLy" target="_blank">前処理大全 データ分析のためのSQL/R/Python実践テクニック</a>」を読み終えたのでレビューする。
