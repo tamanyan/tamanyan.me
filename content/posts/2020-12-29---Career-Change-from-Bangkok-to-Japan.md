@@ -4,7 +4,7 @@ title: バンコクから帰国します【エンジニア転職】
 slug: career-change-from-bangkok-to-japan
 socialImage: /media/img_4091.jpg
 draft: false
-date: 2020-12-29T03:05:45.827Z
+date: 2020-12-30T11:08:49.415Z
 description: 転職でバンコクから日本に帰国します。コロナ下でのエンジニアの転職事情やバンコクでの仕事について話します。
 category: Engineer
 tags:
