@@ -5,7 +5,7 @@ slug: career-change-from-bangkok-to-japan
 socialImage: /media/img_4091.jpg
 draft: false
 date: 2020-12-29T03:05:45.827Z
-description: バンコクのエンジニアをやめて、転職で日本に帰国します。コロナ下での転職事情やバンコクのエンジニア事情について話します。
+description: 転職でバンコクから日本に帰国します。コロナ下でのエンジニアの転職事情やバンコクでの仕事について話します。
 category: Engineer
 tags:
   - Carrer
