@@ -4,3 +4,55 @@
 [build.environment]
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
+
+[[redirects]]
+  from = "/aws-single-vpc-design"
+  to = "/posts/aws-single-vpc-design"
+
+[[redirects]]
+  from = "/thai-expat-employment-and-digital-talent"
+  to = "/posts/thai-expat-employment-and-digital-talent"
+
+[[redirects]]
+  from = "/career-opportunity-in-southeast-asia"
+  to = "/posts/career-opportunity-in-southeast-asia"
+
+[[redirects]]
+  from = "/netlify-functions-split-testing"
+  to = "/posts/netlify-functions-split-testing"
+
+[[redirects]]
+  from = "/nuxt-ts-netlify"
+  to = "/posts/nuxt-ts-netlify"
+
+[[redirects]]
+  from = "/employed-engineer-is-good"
+  to = "/posts/employed-engineer-is-good"
+
+[[redirects]]
+  from = "/preprocessing-cookbook"
+  to = "/posts/preprocessing-cookbook"
+
+[[redirects]]
+  from = "/overfitting-underfitting-linear-regression"
+  to = "/posts/overfitting-underfitting-linear-regression"
+
+[[redirects]]
+  from = "/software-engineer-2018-bangkok"
+  to = "/posts/software-engineer-2018-bangkok"
+
+[[redirects]]
+  from = "/deploy-node-app-to-kubernetes-in-10-mins"
+  to = "/posts/deploy-node-app-to-kubernetes-in-10-mins"
+
+[[redirects]]
+  from = "/gas-reporting-google-charts"
+  to = "/posts/gas-reporting-google-charts"
+
+[[redirects]]
+  from = "/non-tech-company-engineer"
+  to = "/posts/non-tech-company-engineer"
+
+[[redirects]]
+  from = "/deploy-node-app-to-kubernetes-in-10-mins"
+  to = "/posts/deploy-node-app-to-kubernetes-in-10-mins"
