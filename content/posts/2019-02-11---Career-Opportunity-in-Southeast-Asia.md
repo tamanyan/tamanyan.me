@@ -10,7 +10,7 @@ tags:
   - "Engineer"
   - "Southeast Asia"
 description: "キャリアアップ視点での東南アジア就職に関して私が感じている事を話す"
-socialImage: "/media/42-line-bible.jpg"
+socialImage: "/media/career-opportunity-in-southeast-asia/asia.png"
 ---
 
 #### 目次
@@ -66,10 +66,10 @@ socialImage: "/media/42-line-bible.jpg"
 私はシンガポールに関して詳しくないため、良い情報があればむしろ教えて下さいと言いたいところだ。[AngleList](https://angel.co/)や[Glassdoor](https://www.glassdoor.com)を見ると、良い求人が揃っているように見える。また[Payscale](https://www.payscale.com/research/SG/Job=Software_Engineer/Salary)等で確認しても良い感じに見える。
 
 #### AngleList
-![AngelList in Singapore](./angellist.png)
+![AngelList in Singapore](/media/career-opportunity-in-southeast-asia/angellist.png)
 
 #### PayScale
-![PayScale in Singapore](./payscale.png)
+![PayScale in Singapore](/media/career-opportunity-in-southeast-asia/payscale.png)
 
 ## 少ないながらもキャリアアップの希望はあるかもしれない
 
