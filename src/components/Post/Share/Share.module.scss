@@ -1,0 +1,11 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+.share {
+  display: flex;
+  align-items: center;
+
+  &__item:not(:first-child) {
+    padding-left: 8px;
+  }
+}

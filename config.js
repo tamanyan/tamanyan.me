@@ -15,19 +15,19 @@ module.exports = {
       label: 'Articles',
       path: '/'
     },
-    // {
-    //   label: 'About me',
-    //   path: '/pages/about'
-    // },
+    {
+      label: 'About me',
+      path: '/pages/about'
+    },
     // {
     //   label: 'Contact me',
     //   path: '/pages/contacts'
     // }
   ],
   author: {
-    name: 'Taketo Yoshida',
+    name: 'たまにゃん',
     photo: '/photo.jpg',
-    bio: 'バンコクで働くソフトウェアエンジニア。最近はTypeScript/Node.jsの仕事が多め。ex-日本経済新聞社。AtCoder緑。',
+    bio: 'ソフトウェアエンジニア。Next.js (React.js) / Nuxt.js / iOS / Swift / Python / JavaScript /  AWS / GCP / Firebase / Data Analysis。バンコクで3年間勤務経験あり。ex-日本経済新聞社。AtCoder緑。',
     contacts: {
       email: '',
       facebook: '',

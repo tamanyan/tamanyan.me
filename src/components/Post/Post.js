@@ -6,6 +6,7 @@ import Comments from './Comments';
 import Content from './Content';
 import Meta from './Meta';
 import Tags from './Tags';
+import Share from './Share';
 import styles from './Post.module.scss';
 import type { Node } from '../../types';
 
@@ -24,6 +25,10 @@ const Post = ({ post }: Props) => {
 
       <div className={styles['post__content']}>
         <Content body={html} title={title} />
+      </div>
+
+      <div className={styles['post__share']}>
+        <Share postPath={slug} postNode={post} />
       </div>
 
       <div className={styles['post__footer']}>

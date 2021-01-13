@@ -8,6 +8,12 @@
     padding: 0 15px;
   }
 
+  &__share {
+    max-width: $layout-post-width;
+    margin: 0 auto;
+    padding: 0 15px
+  }
+
   &__comments {
     max-width: $layout-post-width;
     margin: 0 auto;

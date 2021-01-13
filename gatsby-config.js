@@ -106,7 +106,8 @@ module.exports = {
           {
             resolve: 'gatsby-remark-katex',
             options: {
-              strict: 'ignore'
+              strict: 'ignore',
+              output: 'html'
             }
           },
           {

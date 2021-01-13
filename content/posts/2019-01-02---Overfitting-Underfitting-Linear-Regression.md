@@ -28,9 +28,7 @@ socialImage: "/media/overfitting-underfitting-linear-regression/overfitting-unde
 
 線形回帰とは入力$X$に対して、フィットするような$θ$を決定する事である。ここでは、一次元の入力サンプルデータに対して、単回帰・多項式回帰を用いて、予測モデルを作成してみる。
 
-$$
-h_θ(X) = θ_0 x_0 + θ_1 x_1 + ... + θ_n x_n = θ^T X
-$$
+$h_θ(X) = θ_0 x_0 + θ_1 x_1 + ... + θ_n x_n = θ^T X$
 
 scikit-learnの `LinearRegression` 線形回帰を使って、それぞれ1次、4次、16次多項式関数の`Model`を求めた。また、`Samples`のデータは以下の関数で生成される。なお、サンプルデータは以下の関数で出力される。
 
