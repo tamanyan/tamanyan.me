@@ -1,4 +1,4 @@
-Tamanyan.me
+# Tamanyan.me
 
 ## Table of contents
 + [Features](http://github.com/alxshelepenok/gatsby-starter-lumen#features)
